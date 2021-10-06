@@ -4,4 +4,4 @@
 # mylife
 
 ### 2021/10/6 Record the National Day of 2021
-[![travel](https://img.shields.io/badge/platform-Click to enter-blue.svg "travel")](https://github.com/Ulrich2003/mylife/blob/main/Record%20the%20National%20Day%20of%202021.md "travel")
+[![travel](https://img.shields.io/badge/platform-ClickToEnter-blue.svg "travel")](https://github.com/Ulrich2003/mylife/blob/main/Record%20the%20National%20Day%20of%202021.md "travel")
