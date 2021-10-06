@@ -18,7 +18,7 @@ Write code somewhere else, tell the truth I have a headache at work and study, s
 
 ![IMG_20211003_235518](https://vichien-public.oss-cn-guangzhou.aliyuncs.com/typora/IMG_20211003_235518.jpg)
 
-![](https://vichien-public.oss-cn-guangzhou.aliyuncs.com/typora/IMG_20211003_235518.jpg)
+![IMG_20211003_235522](https://vichien-public.oss-cn-guangzhou.aliyuncs.com/typora/IMG_20211003_235522.jpg)
 
 ![IMG_20211004_000022](https://vichien-public.oss-cn-guangzhou.aliyuncs.com/typora/IMG_20211004_000022.jpg)
 
