@@ -7,7 +7,7 @@
 
 ### 📅 2021/12/13
 ### Mobile Application Innovation Contest
-[![diary](https://img.shields.io/badge/diary-ClickToEnter-yellow.svg "diary")](https://ulrich2003.github.io/mylife/Record_an_ios_front_end_project_2021_12_12.html "diary")
+[![Contest](https://img.shields.io/badge/Contest-ClickToEnter-green.svg "Contest")](https://ulrich2003.github.io/mylife/Record_an_ios_front_end_project_2021_12_12.html "diary")
 
 ### 📅 2021/11/25
 ### A new journey
