@@ -1,5 +1,5 @@
 [![Author](https://img.shields.io/badge/Author-ChuanyangChen-red.svg "Author")](https://github.com/Ulrich2003 "Author")
-[![RSS](https://img.shields.io/badge/frame-markdown-green.svg "RSS")](https://ulrich2003.github.io/mylife/ "RSS")
+[![RSS](https://img.shields.io/badge/RSS-markdown-green.svg "RSS")](https://ulrich2003.github.io/mylife/ "RSS")
 
 # Life experience
 
