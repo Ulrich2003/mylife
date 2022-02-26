@@ -7,7 +7,7 @@
 
 ### 📅 2022/02/26
 ### Meet the Robinsons
-[![Contest](https://img.shields.io/badge/Contest-ClickToEnter-green.svg "Contest")](https://ulrich2003.github.io/mylife/2022_Feb_26_Sat.html "diary")
+[![diary](https://img.shields.io/badge/diary-ClickToEnter-yellow.svg "diary")](https://ulrich2003.github.io/mylife/2022_Feb_26_Sat.html "diary")
 
 ### 📅 2021/12/13
 ### Mobile Application Innovation Contest
