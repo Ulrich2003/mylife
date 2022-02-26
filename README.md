@@ -5,6 +5,10 @@
 
 📝 This project file is mainly for me and my friends, if you can not fully load the markdown diary, you can download and open it on your own computer with typora.
 
+### 📅 2022/02/26
+### Meet the Robinsons
+[![Contest](https://img.shields.io/badge/Contest-ClickToEnter-green.svg "Contest")](https://ulrich2003.github.io/mylife/2022_Feb_26_Sat.html "diary")
+
 ### 📅 2021/12/13
 ### Mobile Application Innovation Contest
 [![Contest](https://img.shields.io/badge/Contest-ClickToEnter-green.svg "Contest")](https://ulrich2003.github.io/mylife/Record_an_ios_front_end_project_2021_12_12.html "diary")
